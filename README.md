@@ -1,7 +1,11 @@
-# Smart Speaker
+# Lab6
+
 
 ## Author
-| GitHub 帳號 | 姓名 | Email |
-| ----------- | --- | --- |
-| `andykuo8766` | `郭紘安` | andykuo8766@gapp.nthu.edu.tw |
+Team | GitHub | Student ID | Your name
+  :---: | :---: | :---: | :---: 
+Team6 | `changmenghua` | 110064557 | `changmenghua`
 
+Team | GitHub | Student ID | Your name
+  :---: | :---: | :---: | :---: 
+Team6 | `chihlingchang` | 109062578 | `chihlingchang`
