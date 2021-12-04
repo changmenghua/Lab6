@@ -4,8 +4,8 @@
 ## Author
 Team | GitHub | Student ID | Your name
   :---: | :---: | :---: | :---: 
-Team6 | `changmenghua` | 110064557 | `changmenghua`
+Team6 | `changmenghua` | 110064557 | `張孟樺`
 
 Team | GitHub | Student ID | Your name
   :---: | :---: | :---: | :---: 
-Team6 | `chihlingchang` | 110064557 | `chihlingchang`
+Team6 | `chihlingchang` | 110064557 | `張芷菱`
